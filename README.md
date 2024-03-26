@@ -1,2 +1,2 @@
-# To-Do-List-App
+# To-Do-List Website
 Simple and aesthetic To-Do List
